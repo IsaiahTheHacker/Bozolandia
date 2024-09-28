@@ -19,7 +19,12 @@ header {
     padding: 5px 0;
     line-height: 0.7;
 }
-
+.header {
+    text-align: center;
+    background-color: #FFEA00;
+    padding: 25px 0;
+    line-height: 0.7;
+}
 nav {
     text-align: center;
     background-color: #FF0000;
